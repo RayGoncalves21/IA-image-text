@@ -1,0 +1,6 @@
+sudo apt install -y tesseract-ocr
+
+
+
+tesseract -v
+sudo apt install -y tesseract-ocr-por
